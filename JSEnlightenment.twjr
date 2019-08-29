@@ -826,6 +826,21 @@ in this sentence.  Finally, file names are indicated like this:
 @node Introduction
 @chapter Introduction
 
+The purpose of the book is to give the reader
+
+@cindex ECMAScript 3
+@quotation
+an accurate  JavaScript worldview through  an examination of  native JavaScript
+objects  and  supporting  nuances:  complex values,  primitive  values,  scope,
+inheritance, the head  object, etc.  [The book  is intended] to be  a short and
+digestible summary  of the ECMAScript  3 Edition specification, focused  on the
+nature of objects  in JavaScript.  If you  are a designer or  developer who has
+only used JavaScript  under the mantle of libraries (such  as jQuery, MooTools,
+Zepto, YUI, Dojo,  etc.), it is [the  author's] hope that the  material in this
+book  will transform  you  from a  JavaScript library  user  into a  JavaScript
+developer.
+@end quotation
+
 
 @c END Chapter Introduction
 @c /////////////////////////////////////////////////////////////////////////////
